@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241709803731",
+    "project_id": "sendbird-calls-e5756",
+    "storage_bucket": "sendbird-calls-e5756.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241709803731:android:63e53822f18bf239138c26",
+        "android_client_info": {
+          "package_name": "com.example.sendbirdcalls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqesmabJSOfna5wUq_8GWGYkFceYezqFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
